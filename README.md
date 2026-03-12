@@ -1,5 +1,5 @@
 # retail-sales-data-analysis-dashboard
-Project Overview
+Project Overview :
 This project analyzes retail transaction data to uncover insights related to revenue trends, customer purchasing behavior, and geographical sales performance. The objective of the analysis is to help business leaders understand key growth opportunities and support data-driven decision-making.
 The analysis focuses on identifying seasonal revenue patterns, high-performing markets, and valuable customers that contribute significantly to overall revenue.
 
